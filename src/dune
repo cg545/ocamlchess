@@ -1,0 +1,12 @@
+(library
+ (name chess)
+ (public_name Chess)
+ (modules general game board ruleSet colorScheme)
+ (libraries yojson str)
+ (instrumentation
+  (backend bisect_ppx)))
+
+(executable
+ (name tui)
+ (modules tui)
+ (libraries Chess ANSITerminal str))

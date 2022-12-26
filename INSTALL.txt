@@ -1,0 +1,2 @@
+1. Naviagate to the root directory of the project in terminal.
+2. Run "make play" in the terminal.

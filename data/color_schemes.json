@@ -1,0 +1,51 @@
+{
+  "Retro (3-Bit, Most Compatible)": {
+    "normal_background_dark": "42",
+    "normal_background_light": "44",
+    "selected_background_dark": "41",
+    "highlighted_background_dark": "43",
+    "white_piece_style": "37",
+    "black_piece_style": "30"
+  },
+  "Oak (8-Bit, Fairly Compatible)": {
+    "normal_background_dark": "48;5;130",
+    "normal_background_light": "48;5;222",
+    "selected_background_dark": "48;5;69",
+    "highlighted_background_light": "48;5;95",
+    "highlighted_background_dark": "48;5;214",
+    "white_piece_style": "37",
+    "black_piece_style": "30"
+  },
+  "Valentine (8-Bit, Fairly Compatible)": {
+    "normal_background_dark": "48;5;89",
+    "normal_background_light": "48;5;125",
+    "selected_background_dark": "48;5;198",
+    "highlighted_background_dark": "48;5;92",
+    "highlighted_background_light": "48;5;128",
+    "white_piece_style": "38;5;219",
+    "black_piece_style": "38;5;17",
+    "file_rank_style_dark": "38;5;125",
+    "file_rank_style_light": "38;5;89",
+    "neutral_text_style": "38;5;198"
+  },
+  "Walnut (24-Bit, Least Compatible)": {
+    "normal_background_dark": "48;2;81;32;0",
+    "normal_background_light": "48;5;130",
+    "selected_background_dark": "48;2;225;109;97",
+    "highlighted_background_dark": "48;2;174;69;0",
+    "highlighted_background_light": "48;2;234;127;0",
+    "white_piece_style": "37",
+    "black_piece_style": "38;2;0;0;0"
+  },
+  "Jungle (24-Bit, Least Compatible)": {
+    "normal_background_dark": "48;2;19;94;70",
+    "normal_background_light": "48;2;182;123;101",
+    "selected_background_dark": "48;5;69",
+    "highlighted_background_dark": "48;2;71;137;102",
+    "highlighted_background_light": "48;2;208;157;123",
+    "white_piece_style": "38;2;227;198;173",
+    "black_piece_style": "38;2;10;47;35",
+    "file_rank_style_dark": "38;2;19;94;70",
+    "file_rank_style_light": "38;2;182;123;101"
+  }
+}
